@@ -1,0 +1,22 @@
+[
+    {
+        "nama": "Indomie",
+        "kode": "BRG001",
+        "stok": 20
+    },
+    {
+        "nama": "Aqua",
+        "kode": "BRG002",
+        "stok": 15
+    },
+    {
+        "nama": "Teh Botol",
+        "kode": "BRG003",
+        "stok": 10
+    },
+    {
+        "nama": "Gula",
+        "kode": "BRD004",
+        "stok": 25
+    }
+]
